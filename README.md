@@ -1,6 +1,9 @@
 <h1 align="center">Policy-conditioned Environment Models are More Generalizable</h1>
 
-The official implementation of [*Policy-conditioned Environment Models are More Generalizable*](https://openreview.net/pdf?id=g9mYBdooPA).
+The official implementation of [*Policy-conditioned Environment Models are More Generalizable*](https://openreview.net/pdf?id=g9mYBdooPA). 
+
+Please view [Our Project Page](https://policy-conditioned-model.github.io/) for more details.
+
 
 ## Installation
 
